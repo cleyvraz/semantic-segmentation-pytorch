@@ -4,6 +4,7 @@ ckpt/
 vis/
 log/
 pretrained/
+job_scripts/
 
 .ipynb_checkpoints
 
@@ -11,3 +12,18 @@ ADE_val*.jpg
 ADE_val*.png
 
 .idea/
+
+
+# Semantic Segmentation CSAILVision files not being used
+
+setup.py
+requirements.txt
+eval_multipro.py
+download_ADE20k.sh
+demo_test.sh
+README.md
+
+teaser/
+notebooks/
+
+LICENSE
